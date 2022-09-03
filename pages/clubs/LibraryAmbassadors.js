@@ -29,15 +29,15 @@ export default function LibraryAmbassadors() {
           <br/>
 
           <h2>What kind of people are the Library Ambassadors looking to recruit?</h2>
-          <p>We welcome anyone who loves to explore new worlds weather it's fantasy, mystery, horror, romance, or anything they love. </p>
+          <p>We welcome anyone who loves to explore new worlds weather it&#39;s fantasy, mystery, horror, romance, or anything they love. </p>
           <br/>
 
           <h2>What are some of the projects the Library Ambassadors has done in the past?</h2>
-          <p>In Library Ambassadors we have worked on many projects some include the book review wall that's was created by the library members after several weeks of work. The book review wall states some of the members personal favourite books with little summaries of each novel. </p>
+          <p>In Library Ambassadors we have worked on many projects some include the book review wall that&#39;s was created by the library members after several weeks of work. The book review wall states some of the members personal favourite books with little summaries of each novel. </p>
           <br/>
 
           <h2>Do the Library Ambassadors have plans for the future?</h2>
-          <p>It's always been a Library Ambassador tradition to attend the Writers festival which offers students to meet authors to get a professional insight on books. This is still a tradition and we plan on continuing it for years to come. </p>
+          <p>It&#39;s always been a Library Ambassador tradition to attend the Writers festival which offers students to meet authors to get a professional insight on books. This is still a tradition and we plan on continuing it for years to come. </p>
           <br/>
 
           <h2>When are the meetings?</h2>

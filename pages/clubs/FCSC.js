@@ -29,19 +29,19 @@ export default function Fcsc() {
           <br/>
 
           <h2>What kind of people is the FCSC looking to recruit?</h2>
-          <p>We're looking for people who are passionate and willing when it comes to helping others. We need people who can give their time to the collective efforts of our committee and contribute to it with their ideas and hard-work. Therefore, it would be recommended that new recruits aren't in a lot of clubs as we need them to volunteer and help out at various times throughout the year at recess, lunchtime, afterschool and sometimes even on the weekends. </p>
+          <p>We&#39;re looking for people who are passionate and willing when it comes to helping others. We need people who can give their time to the collective efforts of our committee and contribute to it with their ideas and hard-work. Therefore, it would be recommended that new recruits aren&#39;t in a lot of clubs as we need them to volunteer and help out at various times throughout the year at recess, lunchtime, afterschool and sometimes even on the weekends. </p>
           <br/>
 
           <h2>What are some of the projects the FCSC has done in the past?</h2>
-          <p>In the past we have organized successful events such as the World's Greatest Shave, Anzac Appeal, Senior School Athletics Carnival, Women's Day, Cultural Diversity Week stalls, AFL Raffles and Casual Dress days.</p>
+          <p>In the past we have organized successful events such as the World&#39;s Greatest Shave, Anzac Appeal, Senior School Athletics Carnival, Women&#39;s Day, Cultural Diversity Week stalls, AFL Raffles and Casual Dress days.</p>
           <br/>
 
           <h2>What are some projects that the FCSC are working on?</h2>
-          <p>Currently, we are working on organizing a casual dress day to support State School Relief Fund. We're also hoping to hold an Asylum Seeker's goods collection in collaboration with the Salvation Army to help raise goods and money to assist Asylum seekers in Australia.</p>
+          <p>Currently, we are working on organizing a casual dress day to support State School Relief Fund. We&#39;re also hoping to hold an Asylum Seeker&#39;s goods collection in collaboration with the Salvation Army to help raise goods and money to assist Asylum seekers in Australia.</p>
           <br/>
 
           <h2>Does the FCSC have plans for the future?</h2>
-          <p>In October we'll be organizing the National Bandana Day event and selling bandanas to raise money for the charity Canteen and if COVID permits we will be going on a visit to the RSPCA to meet up with the animals they have and hopefully hold an event to raise money and/or goods for the organization.</p>
+          <p>In October we&#39;ll be organizing the National Bandana Day event and selling bandanas to raise money for the charity Canteen and if COVID permits we will be going on a visit to the RSPCA to meet up with the animals they have and hopefully hold an event to raise money and/or goods for the organization.</p>
           <br/>
 
           <h2>When are the meetings?</h2>

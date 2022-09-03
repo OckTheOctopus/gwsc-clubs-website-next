@@ -47,7 +47,7 @@ export default function DynamicDanceClub() {
           <br/>
 
           <h2>Does the Dynamic Dance Club have plans for the future?</h2>
-          <p>A YouTube Channel ( A Concept of 'One Million Dance Studio' )</p>
+          <p>A YouTube Channel ( A Concept of &#39;One Million Dance Studio&#39; )</p>
           <p>Flash Mobs ( Sudden Performances out of the Blue )</p>
           <p>Live Performances Every Month ( Will be posted ahead of Performance )</p>
           <br/>

@@ -25,7 +25,7 @@ export default function CommunityArtsCouncil() {
                             <br/>
 
                             <h2>Why should anybody join?</h2>
-                            <p>Because we are a fun group of individuals who love to run events and contribute to our school's diversity</p>
+                            <p>Because we are a fun group of individuals who love to run events and contribute to our school&#39;s diversity</p>
                             <br/>
 
                             <h2>What kind of people is Club looking to recruit?</h2>
@@ -33,7 +33,7 @@ export default function CommunityArtsCouncil() {
                             <br/>
 
                             <h2>What are some of the projects Club has done in the past?</h2>
-                            <p>Culture Diversity Week, Valentine's Day, Arts Week, R U Ok Day contributions, Halloween, Glleny's Got Talent, many fundraisings </p>
+                            <p>Culture Diversity Week, Valentine&#39;s Day, Arts Week, R U Ok Day contributions, Halloween, Glenny&#39;s Got Talent, many fundraisings </p>
                             <br/>
 
                             <h2>What are some projects that Club are working on?</h2>
