@@ -141,7 +141,7 @@ export default function JoinClub() {
                         height='300'
                         />
                         <figcaption>
-                        We compete in an international competition called <a style={{color: 'blue'}}target="_blank"href="https://www.robocupjunior.org.au/about-us/about-us/">RoboCup</a>, where we compete against students in a progressive way, beginning with Regional, then State, then Nationals, then hopefully, International.
+                        We compete in an international competition called <a style={{color: 'blue'}}target="_blank"href="https://www.robocupjunior.org.au/about-us/about-us/" rel="noreferrer">RoboCup</a>, where we compete against students in a progressive way, beginning with Regional, then State, then Nationals, then hopefully, International.
                         </figcaption>
                     </figure> 
                 </a>
