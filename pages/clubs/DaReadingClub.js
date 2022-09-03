@@ -5,6 +5,8 @@ import Footer from "../../components/Footer";
 import NavBar from "../../components/NavBar";
 import SideBar from "../../components/SideBar";
 
+// Images
+import DaReadingClub_logo from '../../public/images/DaReadingClub_logo.png';
 
 export default function DaReadingClub() {
     return (
@@ -54,7 +56,7 @@ export default function DaReadingClub() {
           <br/>
 
           <Image
-            src='/../../public/images/DaReadingClub_logo.png'
+            src={DaReadingClub_logo}
             alt=""
             width='300'
             height='300'

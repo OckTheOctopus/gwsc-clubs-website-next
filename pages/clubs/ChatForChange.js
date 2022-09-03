@@ -21,7 +21,7 @@ export default function ChatForChange() {
                         <br/>
                         <h4>Mental Health Program:</h4>
                         <p>This is a project where we would like to start by conducting a survey throughout the school- across all year levels, to develop an understanding of the current mental health situation of our students.</p>
-                        <p>Due to this year’s arduity and general difficulty, mental health has inevitably abated. This valuable information of the survey gives us an outline and consequently gives us an idea of how we can help individuals who are feeling low. Through this data, we at C4C can implement more projects that support the mental health of students.</p>
+                        <p>Due to this year&#39;s arduity and general difficulty, mental health has inevitably abated. This valuable information of the survey gives us an outline and consequently gives us an idea of how we can help individuals who are feeling low. Through this data, we at C4C can implement more projects that support the mental health of students.</p>
                         <br/>
                         <h4>Sexism Awareness Project:</h4>
                         <p>This is a project where we increase awareness about sexism and its negative effects towards both men and women in our society. Social media, posters/infographics and other forms of media will be utilized to increase awareness about such issues.</p>

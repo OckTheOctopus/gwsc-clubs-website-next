@@ -5,6 +5,9 @@ import Footer from "../../components/Footer";
 import NavBar from "../../components/NavBar";
 import SideBar from "../../components/SideBar";
 
+// Images
+import LibraryAmbassadors_logo from '../../public/images/LibraryAmbassadors_logo.jpeg';
+
 export default function LibraryAmbassadors() {
     return (
         <>
@@ -53,7 +56,7 @@ export default function LibraryAmbassadors() {
           <br/>
 
           <Image
-            src="/../../LibraryAmbassadors_logo.jpeg"
+            src={LibraryAmbassadors_logo}
             alt="Library Ambassadors logo"
             width='300'
             height='300'

@@ -7,6 +7,20 @@ import Footer from '../components/Footer.js';
 import NavBar from '../components/NavBar.js';
 import SideBar from '../components/SideBar.js';
 
+// Images
+import ChatForChange_logo from '../public/images/ChatForChange_logo.jpeg';
+import CommunityArtsCouncil_logo from '../public/images/CAC_logo.png';
+import DaReadingClub_logo from '../public/images/DaReadingClub_logo.png';
+import DynamicDanceClub_logo from '../public/images/DynamicDanceClub_logo.png';
+import FCSC_logo from '../public/images/FCSC_logo.png';
+import LibraryAmbassadors_logo from '../public/images/LibraryAmbassadors_logo.jpeg';
+import MUN_logo from '../public/images/MUN_logo.png';
+import RoboticsClub_logo from '../public/images/RoboticsClub_logo.png';
+import TeaseSiblings_logo from '../public/images/TeaseSiblings_logo.jpeg';
+import TechCrew_logo from '../public/images/TechCrew_logo.jpg';
+import ViReal_logo from '../public/images/ViReal_logo.jpg';
+import VolleyballClub_logo from '../public/images/VolleyballClub_logo.png';
+
 export default function JoinClub() {
     return (
     <>
@@ -23,7 +37,7 @@ export default function JoinClub() {
                 <a>
                     <figure>
                         <Image
-                        src='/../public/images/ChatForChange_logo.jpeg'
+                        src={ChatForChange_logo}
                         alt="Chat for Change"
                         width='300'
                         height='300'
@@ -39,7 +53,7 @@ export default function JoinClub() {
                 <a>
                 <figure>
                     <Image
-                    src='/../public/images/CAC_logo.png'
+                    src={CommunityArtsCouncil_logo}
                     alt="Community Arts Council"
                     width='300'
                     height='300'
@@ -55,7 +69,7 @@ export default function JoinClub() {
                 <a>
                 <figure>
                     <Image
-                    src='/../public/images/DaReadingClub_logo.png'
+                    src={DaReadingClub_logo}
                     alt="Da Reading Club"
                     width='300'
                     height='300'
@@ -71,7 +85,7 @@ export default function JoinClub() {
                 <a>
                 <figure>
                     <Image
-                    src='/../public/images/DynamicDanceClub_logo.png'
+                    src={DynamicDanceClub_logo}
                     alt="Dynamic Dance Club"
                     width='300'
                     height='300'
@@ -87,7 +101,7 @@ export default function JoinClub() {
                 <a>
                     <figure>
                         <Image
-                        src='/../public/images/FCSC_logo.png'
+                        src={FCSC_logo}
                         alt="Fundraising and Community Services Committee"
                         width='300'
                         height='300'
@@ -103,7 +117,7 @@ export default function JoinClub() {
                 <a>
                     <figure>
                         <Image
-                        src='/../public/images/Libraryambassadors_logo.jpeg'
+                        src={LibraryAmbassadors_logo}
                         alt='Library Ambassadors'
                         width='300'
                         height='300'
@@ -119,7 +133,7 @@ export default function JoinClub() {
                 <a>
                     <figure>
                         <Image
-                        src='/../public/images/MUN_logo.png'
+                        src={MUN_logo}
                         alt='Model United Nations'
                         width='300'
                         height='300'
@@ -135,7 +149,7 @@ export default function JoinClub() {
                 <a>
                     <figure>
                         <Image
-                        src="/../public/images/RoboticsClub_logo.png"
+                        src={RoboticsClub_logo}
                         alt='Robotics Club'
                         width='300'
                         height='300'
@@ -151,7 +165,7 @@ export default function JoinClub() {
                 <a>
                     <figure>
                         <Image
-                        src='/../public/images/TeaseSiblings_logo.jpeg'
+                        src={TeaseSiblings_logo}
                         alt='Tease Siblings'
                         width='300'
                         height='300'
@@ -167,7 +181,7 @@ export default function JoinClub() {
                 <a>
                     <figure>
                         <Image
-                        src='/../public/images/TechCrew_logo.png'
+                        src={TechCrew_logo}
                         alt='Tech Crew'
                         width='300'
                         height='300'
@@ -183,7 +197,7 @@ export default function JoinClub() {
                 <a>
                     <figure>
                         <Image
-                        src='/../public/images/ViReal_logo.jpg'
+                        src={ViReal_logo}
                         alt='ViReal'
                         height='300'
                         width='300'
@@ -199,7 +213,7 @@ export default function JoinClub() {
                 <a>
                     <figure>
                         <Image
-                        src='/../public/images/VolleyballClub_logo.png'
+                        src={VolleyballClub_logo}
                         alt='Volleyball Club'
                         width='300'
                         height='300'

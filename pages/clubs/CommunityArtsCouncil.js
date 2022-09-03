@@ -5,6 +5,13 @@ import Footer from "../../components/Footer";
 import NavBar from "../../components/NavBar";
 import SideBar from "../../components/SideBar";
 
+// Images
+import CAC_logo from '../../public/images/CAC_logo.png';
+import CAC_1 from '../../public/images/CAC_1.JPG';
+import CAC_2 from '../../public/images/CAC_2.JPG';
+import CAC_3 from '../../public/images/CAC_3.JPG';
+import CAC_4 from '../../public/images/CAC_4.JPG';
+
 export default function CommunityArtsCouncil() {
     return (
         <>
@@ -60,31 +67,31 @@ export default function CommunityArtsCouncil() {
 
                             <div className="gallery">
                                 <Image
-                                    src='/../../public/images/CAC_logo.png'
+                                    src={CAC_logo}
                                     alt="Community Arts Council logo"
                                     width="300px"
                                     height='300px'
                                 />
                                 <Image
-                                    src='/../../public/images/CAC_1.JPG'
+                                    src={CAC_1}
                                     alt="Community Arts Council activity 1"
                                     width='300'
                                     height='300'
                                 />
                                 <Image
-                                    src='/../../public/images/CAC_2.JPG'
+                                    src={CAC_2}
                                     alt="Community Arts Council activity 2"
                                     width='300'
                                     height='300'
                                 />
                                 <Image
-                                    src='/../../public/images/CAC_3.JPG'
+                                    src={CAC_3}
                                     alt="Community Arts Council activity 3"
                                     width='300'
                                     height='300'
                                 />
                                 <Image
-                                    src='/../../public/images/CAC_4.JPG'
+                                    src={CAC_4}
                                     alt="Community Arts Council activity 4"
                                     width='300'
                                     height='300'

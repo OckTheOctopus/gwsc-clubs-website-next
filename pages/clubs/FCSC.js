@@ -5,6 +5,19 @@ import Footer from "../../components/Footer";
 import NavBar from "../../components/NavBar";
 import SideBar from "../../components/SideBar";
 
+// Images
+import FCSC_logo from '../../public/images/FCSC_logo.png';
+import FCSC_1 from '../../public/images/FCSC_1.JPG';
+import FCSC_2 from '../../public/images/FCSC_2.JPG';
+import FCSC_3 from '../../public/images/FCSC_3.JPG';
+import FCSC_4 from '../../public/images/FCSC_4.JPG';
+import FCSC_5 from '../../public/images/FCSC_5.JPG';
+import FCSC_6 from '../../public/images/FCSC_6.JPG';
+import FCSC_7 from '../../public/images/FCSC_7.JPG';
+import FCSC_8 from '../../public/images/FCSC_8.JPG';
+import FCSC_9 from '../../public/images/FCSC_9.JPG';
+import FCSC_10 from '../../public/images/FCSC_10.JPG';
+
 export default function Fcsc() {
     return (
         <>
@@ -59,67 +72,67 @@ export default function Fcsc() {
 
           <div className='gallery'>
             <Image
-              src='/../../public/images/FCSC_logo.png'
+              src={FCSC_logo}
               alt="Fundraising and Community Service Committee logo"
               width='300px'
               height='300px'
             />
             <Image
-              src='/../../public/images/FCSC_1.JPG'
+              src={FCSC_1}
               alt="Fundraising and Community Service Committee Activity 1"
               width='300'
               height='300'
             />
             <Image
-              src='/../../public/images/FCSC_2.JPG'
+              src={FCSC_2}
               alt="Fundraising and Community Service Committee Activity 2"
               width='300'
               height='300'
             />
             <Image
-              src='/../../public/images/FCSC_3.JPG'
+              src={FCSC_3}
               alt="Fundraising and Community Service Committee Activity 3"
               width='300'
               height='300'
             />
             <Image
-              src='/../../public/images/FCSC_4.JPG'
+              src={FCSC_4}
               alt="Fundraising and Community Service Committee Activity 4"
               width='300'
               height='300'
             />
             <Image
-              src='/../../public/images/FCSC_5.JPG'
+              src={FCSC_5}
               alt="Fundraising and Community Service Committee Activity 5"
               width='300'
               height='300'
             />
             <Image
-              src='/../../public/images/FCSC_6.JPG'
+              src={FCSC_6}
               alt="Fundraising and Community Service Committee Activity 6"
               width='300'
               height='300'
             />
             <Image
-              src='/../../public/images/FCSC_7.JPG'
+              src={FCSC_7}
               alt="Fundraising and Community Service Committee Activity 7"
               width='300'
               height='300'
             />
             <Image
-              src='/../../public/images/FCSC_8.JPG'
+              src={FCSC_8}
               alt="Fundraising and Community Service Committee Activity 8"
               width='300'
               height='300'
             />
             <Image
-              src='/../../public/images/FCSC_9.JPG'
+              src={FCSC_9}
               alt="Fundraising and Community Service Committee Activity 9"
               width='300'
               height='300'
             />
             <Image
-              src='/../../public/images/FCSC_10.JPG'
+              src={FCSC_10}
               alt="Fundraising and Community Service Committee Activity 10"
               width='300'
               height='300'

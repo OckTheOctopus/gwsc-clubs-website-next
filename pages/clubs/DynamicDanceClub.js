@@ -5,6 +5,9 @@ import Footer from "../../components/Footer";
 import NavBar from "../../components/NavBar";
 import SideBar from "../../components/SideBar";
 
+// Images
+import DynamicDanceClub_logo from '../../public/images/DynamicDanceClub_logo.png';
+
 export default function DynamicDanceClub() {
     return (
         <>
@@ -65,7 +68,7 @@ export default function DynamicDanceClub() {
           <br/>
 
           <Image
-            src='/../../public/images/DynamicDanceClub_logo.png'
+            src={DynamicDanceClub_logo}
             alt="Dynamic Dance Club"
             width='300'
             height='300'
