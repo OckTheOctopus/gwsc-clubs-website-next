@@ -6,15 +6,15 @@ export default function SideBar() {
     <>
         <div>
             <h3>Check them out!</h3>
-            <Link href='/'><a>Chat for Change</a></Link>
+            <Link href='/clubs/ChatForChange'><a>Chat for Change</a></Link>
             <br />
-            <Link href='/'><a>Community Arts Council</a></Link>
+            <Link href='/clubs/CommunityArtsCouncil'><a>Community Arts Council</a></Link>
             <br />
-            <Link href='/'><a>Tech Crew</a></Link>
+            <Link href='/clubs/TechCrew'><a>Tech Crew</a></Link>
             <br />
-            <Link href='/'><a>FCSC</a></Link>
+            <Link href='/clubs/FCSC'><a>FCSC</a></Link>
             <br />
-            <Link href='/'><a>Robotics Club</a></Link>
+            <Link href='/clubs/RoboticsClub'><a>Robotics Club</a></Link>
         </div>
       <style jsx>{`
         a, a:visited {
