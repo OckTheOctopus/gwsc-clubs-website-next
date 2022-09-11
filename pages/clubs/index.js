@@ -209,7 +209,7 @@ export default function JoinClub() {
                 </a>
             </Link>
 
-            <Link href='/clubs/Volleyballclub'>
+            <Link href='/clubs/VolleyballClub'>
                 <a>
                     <figure>
                         <Image
