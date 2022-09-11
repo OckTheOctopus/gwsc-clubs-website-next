@@ -41,7 +41,7 @@ export default function TechCrew() {
           <br/>
 
           <h2>What are some projects that the Tech Crew are working on?</h2>
-          <p>Due to lockdown, we are working out ways to connect with all/most of tech crew. When we're back at school we are hoping to find ways to get involved in school activities</p>
+          <p>Due to lockdown, we are working out ways to connect with all/most of tech crew. When we&#39;re back at school we are hoping to find ways to get involved in school activities</p>
           <br/>
 
           <h2>When are the meetings?</h2>

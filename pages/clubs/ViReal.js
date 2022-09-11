@@ -29,7 +29,7 @@ export default function ViReal() {
           <br/>
 
           <h2>Why should anybody join?</h2>
-          <p>I am sure most people want to look good in photos they post on the internet or social media.   I know that nothing is impossible with photoshop and effects. That's why everyone who is interested should join!</p>
+          <p>I am sure most people want to look good in photos they post on the internet or social media.   I know that nothing is impossible with photoshop and effects. That&#39;s why everyone who is interested should join!</p>
           <br/>
 
           <h2>What kind of people are ViReal looking to recruit?</h2>
