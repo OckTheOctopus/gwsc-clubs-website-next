@@ -5,7 +5,7 @@ export default function NavBar() {
         <>
             <nav>
                 <Link href='/' className='a'><a>Home</a></Link>
-                <Link href='/join' className='a'><a>Join a club</a></Link>
+                <Link href='/clubs' className='a'><a>Join a club</a></Link>
                 <Link href='/contact' className='a'><a>Contact us</a></Link>
             </nav>
 

@@ -2,24 +2,24 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 // Components
-import Header from '../components/Header.js';
-import Footer from '../components/Footer.js';
-import NavBar from '../components/NavBar.js';
-import SideBar from '../components/SideBar.js';
+import Header from '../../components/Header.js';
+import Footer from '../../components/Footer.js';
+import NavBar from '../../components/NavBar.js';
+import SideBar from '../../components/SideBar.js';
 
 // Images
-import ChatForChange_logo from '../public/images/ChatForChange_logo.jpeg';
-import CommunityArtsCouncil_logo from '../public/images/CAC_logo.png';
-import DaReadingClub_logo from '../public/images/DaReadingClub_logo.png';
-import DynamicDanceClub_logo from '../public/images/DynamicDanceClub_logo.png';
-import FCSC_logo from '../public/images/FCSC_logo.png';
-import LibraryAmbassadors_logo from '../public/images/LibraryAmbassadors_logo.jpeg';
-import MUN_logo from '../public/images/MUN_logo.png';
-import RoboticsClub_logo from '../public/images/RoboticsClub_logo.png';
-import TeaseSiblings_logo from '../public/images/TeaseSiblings_logo.jpeg';
-import TechCrew_logo from '../public/images/TechCrew_logo.jpg';
-import ViReal_logo from '../public/images/ViReal_logo.jpg';
-import VolleyballClub_logo from '../public/images/VolleyballClub_logo.png';
+import ChatForChange_logo from '../../public/images/ChatForChange_logo.jpeg';
+import CommunityArtsCouncil_logo from '../../public/images/CAC_logo.png';
+import DaReadingClub_logo from '../../public/images/DaReadingClub_logo.png';
+import DynamicDanceClub_logo from '../../public/images/DynamicDanceClub_logo.png';
+import FCSC_logo from '../../public/images/FCSC_logo.png';
+import LibraryAmbassadors_logo from '../../public/images/LibraryAmbassadors_logo.jpeg';
+import MUN_logo from '../../public/images/MUN_logo.png';
+import RoboticsClub_logo from '../../public/images/RoboticsClub_logo.png';
+import TeaseSiblings_logo from '../../public/images/TeaseSiblings_logo.jpeg';
+import TechCrew_logo from '../../public/images/TechCrew_logo.jpg';
+import ViReal_logo from '../../public/images/ViReal_logo.jpg';
+import VolleyballClub_logo from '../../public/images/VolleyballClub_logo.png';
 
 export default function JoinClub() {
     return (
@@ -33,7 +33,7 @@ export default function JoinClub() {
           <main>
             <h1>Check out all of these clubs!</h1>
 
-            <Link href='/clubs/chatforchange'>
+            <Link href='/clubs/ChatForChange'>
                 <a>
                     <figure>
                         <Image
@@ -49,7 +49,7 @@ export default function JoinClub() {
                 </a>
             </Link>
 
-            <Link href='/clubs/communityartscouncil'>
+            <Link href='/clubs/CommunityArtsCouncil'>
                 <a>
                 <figure>
                     <Image
@@ -65,7 +65,7 @@ export default function JoinClub() {
               </a>
             </Link>
 
-            <Link href='/clubs/dareadingclub'>
+            <Link href='/clubs/DaReadingClub'>
                 <a>
                 <figure>
                     <Image
@@ -81,7 +81,7 @@ export default function JoinClub() {
               </a>
             </Link>
 
-            <Link href='/clubs/dynamicdanceclub'>
+            <Link href='/clubs/DynamicDanceClub'>
                 <a>
                 <figure>
                     <Image
@@ -145,7 +145,7 @@ export default function JoinClub() {
                 </a>
             </Link>
 
-            <Link href='/clubs/roboticsclub'>
+            <Link href='/clubs/RoboticsClub'>
                 <a>
                     <figure>
                         <Image
@@ -161,7 +161,7 @@ export default function JoinClub() {
                 </a>
             </Link>
 
-            <Link href='/clubs/teasesiblings'>
+            <Link href='/clubs/TeaseSiblings'>
                 <a>
                     <figure>
                         <Image
@@ -177,7 +177,7 @@ export default function JoinClub() {
                 </a>
             </Link>
 
-            <Link href='/clubs/techcrew'>
+            <Link href='/clubs/TechCrew'>
                 <a>
                     <figure>
                         <Image
