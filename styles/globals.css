@@ -27,3 +27,7 @@ main {
   position: relative;
   margin-left: 250px;
 }
+
+img {
+  object-fit: cover;
+}
